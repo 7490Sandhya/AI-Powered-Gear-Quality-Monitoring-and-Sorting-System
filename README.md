@@ -8,11 +8,19 @@ An end-to-end automated gear inspection system using **YOLOv8, Python, OpenCV, a
 
 ## 📸 Demo
 
-### 🎥 System Demonstration
+---
 
-![AI-Powered Gear Quality Monitoring and Sorting System](finaldemo.gif)
+## 📸 Demo
 
-*Real-time gear defect detection and automatic sorting using YOLOv8, Raspberry Pi 4, ultrasonic sensor, conveyor belt, and servo motor.*
+<p align="center">
+  <img src="finaldemo.gif" alt="AI-Powered Gear Quality Monitoring and Sorting System Demo" width="850">
+</p>
+
+<p align="center">
+  <b>Real-time Gear Defect Detection and Automatic Sorting using YOLOv8 and Raspberry Pi 4</b>
+</p>
+
+---
 
 ## 🚀 Features
 
