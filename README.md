@@ -8,11 +8,11 @@ An end-to-end automated gear inspection system using **YOLOv8, Python, OpenCV, a
 
 ## 📸 Demo
 
-**System Demo**
+### System Demo
 
-*(Real-time gear defect detection and automatic sorting demonstration)*
+![System Demo](finaldemo.gif)
 
----
+*Real-time gear defect detection and automatic sorting demonstration.*
 
 ## 🚀 Features
 
